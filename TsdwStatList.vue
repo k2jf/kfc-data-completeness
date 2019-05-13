@@ -11,7 +11,7 @@ import Search from './Search'
 import Table from './Table'
 
 export default {
-  name: 'CompletenessList',
+  name: 'TsdwStatList',
   components: {
     'p-search': Search,
     'p-table': Table,

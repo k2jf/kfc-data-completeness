@@ -1,3 +1,3 @@
-import CompletenessTable from './CompletenessTable.vue'
+import TsdwStatTable from './TsdwStatTable.vue'
 
-export default CompletenessTable
+export default TsdwStatTable

@@ -1,3 +1,3 @@
-import CompletenessSearch from './CompletenessSearch.vue'
+import TsdwStatSearch from './TsdwStatSearch.vue'
 
-export default CompletenessSearch
+export default TsdwStatSearch

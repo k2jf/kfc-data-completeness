@@ -1,4 +1,4 @@
-import CompletenessList from './CompletenessList.vue'
+import TsdwStatList from './TsdwStatList.vue'
 import './styles/index.css'
 
-export default CompletenessList
+export default TsdwStatList

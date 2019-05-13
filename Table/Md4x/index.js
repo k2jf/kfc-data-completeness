@@ -1,3 +1,3 @@
-import Md4xCompletenessTable from './Md4x/Md4xCompletenessTable.vue'
+import Md4xTsdwStatTable from './Md4x/Md4xTsdwStatTable.vue'
 
-export default Md4xCompletenessTable
+export default Md4xTsdwStatTable
